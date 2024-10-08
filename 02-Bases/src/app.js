@@ -1,1 +1,1 @@
-console.log('Hi');
+require('./utils/01-destructuring');
